@@ -1,4 +1,5 @@
 ![emscripten logo](media/switch_logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2Femscripten.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2Femscripten?ref=badge_shield)
 
 Emscripten is an [LLVM](https://en.wikipedia.org/wiki/LLVM)-to-JavaScript compiler. It takes LLVM bitcode - which can be generated
 from C/C++, using `llvm-gcc` (DragonEgg) or `clang`, or any other language that can be
@@ -24,3 +25,7 @@ License allows Emscripten's code to be integrated upstream into
 LLVM, which uses that license, should the opportunity arise.
 
 See `LICENSE` for the full content of the licenses.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2Femscripten.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2Femscripten?ref=badge_large)
